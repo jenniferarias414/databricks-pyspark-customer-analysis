@@ -108,6 +108,7 @@ top_customers = revenue_per_customer \
 ## Final Output
 Top 10 customers by total revenue.
 
+![Top Customers](images/top_10_customers.png)
 ---
 
 ## What I Learned
